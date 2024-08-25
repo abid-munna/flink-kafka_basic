@@ -75,3 +75,9 @@
 2024-08-25 12:47:12 root         INFO     Produced {'seller_id': 'KC', 'amount_usd': 938, 'sale_ts': 1724590031950} to topic sales-usd partition 0 offset 739
 2024-08-25 12:47:17 root         INFO     Produced {'seller_id': 'OMA', 'amount_usd': 574, 'sale_ts': 1724590037152} to topic sales-usd partition 0 offset 749
 2024-08-25 12:47:22 root         INFO     Produced {'seller_id': 'OMA', 'amount_usd': 695, 'sale_ts': 1724590042354} to topic sales-usd partition 0 offset 759
+2024-08-25 12:47:27 root         INFO     Produced {'seller_id': 'KC', 'amount_usd': 531, 'sale_ts': 1724590047557} to topic sales-usd partition 0 offset 769
+2024-08-25 12:47:32 root         INFO     Produced {'seller_id': 'LNK', 'amount_usd': 773, 'sale_ts': 1724590052759} to topic sales-usd partition 0 offset 779
+2024-08-25 12:47:38 root         INFO     Produced {'seller_id': 'LNK', 'amount_usd': 819, 'sale_ts': 1724590057961} to topic sales-usd partition 0 offset 789
+2024-08-25 12:47:43 root         INFO     Produced {'seller_id': 'DEN', 'amount_usd': 788, 'sale_ts': 1724590063164} to topic sales-usd partition 0 offset 799
+2024-08-25 12:47:48 root         INFO     Produced {'seller_id': 'LNK', 'amount_usd': 116, 'sale_ts': 1724590068366} to topic sales-usd partition 0 offset 809
+2024-08-25 12:47:53 root         INFO     Produced {'seller_id': 'KC', 'amount_usd': 124, 'sale_ts': 1724590073568} to topic sales-usd partition 0 offset 819
